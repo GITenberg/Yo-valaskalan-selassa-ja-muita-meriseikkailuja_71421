@@ -1,5 +1,8 @@
 _repo: Yo-valaskalan-selassa-ja-muita-meriseikkailuja_71421
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gerstäcker, Friedrich
@@ -25,6 +28,8 @@ creator:
     - https://en.wikipedia.org/wiki/Teuvo_Pakkala
     - https://fi.wikipedia.org/wiki/Teuvo_Pakkala
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71421#Yo-valaskalan-selassa-ja-muita-meriseikkailuja
 gutenberg_issued: '2023-08-16'
 identifiers:
   gutenberg: '71421'
